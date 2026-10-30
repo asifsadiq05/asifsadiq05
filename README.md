@@ -1,19 +1,17 @@
-## Hi there 👋
+### Hi, I'm Asif Sadiq 👋
 
-<!--
-**asifsadiq05/asifsadiq05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 🤖 AI & Machine Learning Enthusiast | 📸 Photographer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on AI/ML-based projects and exploring real-world applications of Artificial Intelligence.
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Python, and Data Structures & Algorithms.
+- 👯 I’m looking to collaborate on AI, ML, Deep Learning, and open-source projects.
+- 🤔 I’m looking for help with Deep Learning research, model development, and implementing AI research papers.
+- 💬 Ask me about C++, Python, Programming Fundamentals, AI, and Machine Learning.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asif-sadiq-582583237/) | [Email](asifsadiq1505@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love capturing moments through photography as much as I love exploring technology!
+About me: I'm a Computer Science and Engineering student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I'm continuously exploring intelligent systems, experimenting with AI models, and turning research ideas into practical projects. My goal is to contribute to innovative AI-driven solutions and grow as an AI/ML Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/075asif_Sadiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asif Sadiq) 
